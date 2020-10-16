@@ -1,3 +1,4 @@
+ ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![library](https://img.shields.io/badge/Library-numpy-orange.svg) ![library](https://img.shields.io/badge/Library-matplotlib-blueviolet.svg) ![library](https://img.shields.io/badge/Library-seaborn-9cf.svg)
 
 ## What is EDA?
 
@@ -11,6 +12,7 @@ The primary goal of the project is to go through the dataset and the general dat
 
 # Table of Contents
 - [Introduction](#introduction)
+- [Resources Used](#resources-used)
 - [Data Wrangling](#data-wrangling)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusions](#conclusions)
@@ -22,6 +24,10 @@ I choose the TMDb movie data set (1960-2015) for data analysis. This data set co
 - Total Rows = 10866
 - Total Columns = 21
 - After Seeing the dataset we can say that some columns is contain null values.
+
+## Resources Used 
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, matplotlib, seaborn.
 
 ## Data Wrangling
 After Observing the dataset and the questions related to this dataset for the analysis we will be keeping only relevent data and deleting the unused data.
