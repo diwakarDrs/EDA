@@ -22,8 +22,15 @@ I choose the TMDb movie data set (1960-2015) for data analysis. This data set co
 *Contain:*
 - Total Rows = 10866
 - Total Columns = 21
-- After Seeing the dataset we can say that some columns is    contain null values.
+- After Seeing the dataset we can say that some columns is contain null values.
 
+## Data Wrangling
+After Observing the dataset and the questions related to this dataset for the analysis we will be keeping only relevent data and deleting the unused data.
+
+- We need to remove duplicate rows from the dataset
+- Changing format of release date into datetime format
+- Remove the unused colums that are not needed in the analysis process.
+- Remove the movies which are having zero value of budget and revenue.
 
 ## By doing EDA we can answer these questions
 
@@ -54,7 +61,7 @@ I choose the TMDb movie data set (1960-2015) for data analysis. This data set co
 - 'Avatar', 'Star Wars' and 'Titanic' are the most profitable movies.
 - Short or Long duration movies are more popular than long duration movies.
 - Average runtime of the movies are decreasing year by year.
-- May,june,november and december are most popular month for releasing movies, if you want to earn more profit.
+- May,June,November and December are most popular month for releasing movies, if you want to earn more profit.
 - Revenue is directly connected to the budget.
 - Warner Bros, Universal Pictures and Paramount Pictures production companies earn more life time profit than other production companies.
 - Movies with higher budgets have shown a corresponding increase in the revenues.
