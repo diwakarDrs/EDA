@@ -11,10 +11,10 @@
 The primary goal of the project is to go through the dataset and the general data analysis process using numpy, pandas and matplotlib. This contain four parts:
 
 # Table of Contents
-- [Introduction](#Introduction)
-- [Data Wrangling](#Data Wrangling)
-- [Exploratory Data Analysis](#Exploratory Data Analysis)
-- [Conclusions](#Conclusions)
+- [Introduction](#introduction)
+- [Data Wrangling](#data-wrangling)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Conclusions](#conclusions)
 
 ## Introduction
 I choose the TMDb movie data set (1960-2015) for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.I would like to find other interesting patterns in the dataset.
@@ -31,7 +31,7 @@ After Observing the dataset and the questions related to this dataset for the an
 - Remove the unused colums that are not needed in the analysis process.
 - Remove the movies which are having zero value of budget and revenue.
 
-### By doing EDA we can answer these questions
+### By doing EDA we can answer below questions
 
 ### Questions
 1. Which year has the highest release of movies?
