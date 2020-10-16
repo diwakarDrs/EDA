@@ -18,7 +18,6 @@ The primary goal of the project is to go through the dataset and the general dat
 
 ## Introduction
 I choose the TMDb movie data set (1960-2015) for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.I would like to find other interesting patterns in the dataset.
-
 *Contain:*
 - Total Rows = 10866
 - Total Columns = 21
@@ -32,7 +31,7 @@ After Observing the dataset and the questions related to this dataset for the an
 - Remove the unused colums that are not needed in the analysis process.
 - Remove the movies which are having zero value of budget and revenue.
 
-## By doing EDA we can answer these questions
+### By doing EDA we can answer these questions
 
 ### Questions
 1. Which year has the highest release of movies?
@@ -53,7 +52,7 @@ After Observing the dataset and the questions related to this dataset for the an
 16. What kinds of properties are associated with movies that have high revenues?
 
 
-## Exploratory Data Analysis:
+## Exploratory Data Analysis
  Some of the insight gained from analysis of the data..
 
 ## Conclusions
