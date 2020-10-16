@@ -1,4 +1,3 @@
-# Exploratory-Data-Analysis
 
 ## What is EDA?
 
