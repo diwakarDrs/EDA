@@ -17,6 +17,7 @@ The primary goal of the project is to go through the dataset and the general dat
 
 ## Introduction
 I choose the TMDb movie data set (1960-2015) for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.I would like to find other interesting patterns in the dataset.
+
 *Contain:*
 - Total Rows = 10866
 - Total Columns = 21
