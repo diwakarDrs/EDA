@@ -18,7 +18,7 @@ The primary goal of the project is to go through the dataset and the general dat
 - [Conclusions](#conclusions)
 
 ## Introduction
-I choose the TMDb movie data set (1960-2015) for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.I would like to find other interesting patterns in the dataset.
+I choose the TMDb movie data set (1960-2015)downloaded from kaggle for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.I would like to find other interesting patterns in the dataset.
 
 *Contain:*
 - Total Rows = 10866
@@ -61,6 +61,52 @@ After Observing the dataset and the questions related to this dataset for the an
 ## Exploratory Data Analysis
  Some of the insight gained from analysis of the data..
  
+ <p float="left" align='center'>
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/release.PNG" width = 300 alt="Movie_release">
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/profit.PNG" width = 500 alt="Profit">
+  
+ </p>
+ 
+  <p float="left">
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/actor.PNG" width = 400 alt="Actor">
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/buget.PNG" width = 500 alt="Budget">
+  
+ </p>
+ 
+  <p float="left">
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/genre.PNG" width = 450 alt="Genre">
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/prod_comp.PNG" width = 450 alt="Production Companies">
+  
+ </p>
+
+ <p align="center"><img src = "https://github.com/diwakarDrs/EDA/blob/main/Movie_TMDB/Readme_resources/corr.PNG" width = 450 alt="correlation"><p>
+ 
+ **Plot 1: Budget vs Revenue**
+
+The revenues do increase slightly at higher levels but the number of movies with high budgets seem scarce. There is a good possibility that movies with higher investments result in better revenues.
+- Correlation = 0.69
+
+I can't find a relationship here. The revenues don't seem to change with higher vote average.
+
+**Plot 2: Popularity vs Revenue**
+
+The revenue seems to be increasing with popularity. We can say that if the popularity of movie is high then the revenue of the movie may be high.
+- Correlation = 0.63
+
+**Plot 3: Vote Average vs Revenue**
+
+The correlation between revenue and vote average is **0.21**. So vote average is not highly related to the revenue.
+
+**Plot 4: Runtime vs Revenue**
+
+The correlation between revenue and runtime is **0.24**. So runtime is not highly related to the revenue.
+
 
 ## Conclusions
 - Maximum Number Of Movies Release In year 2014.
