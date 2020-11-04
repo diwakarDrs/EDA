@@ -2,7 +2,7 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![library](https://img.shields.io/badge/Library-numpy-orange.svg) ![library](https://img.shields.io/badge/Library-pandas-blueviolet.svg) ![library](https://img.shields.io/badge/Library-Sqlite3-9cf.svg)
 
 ## DataSet
-Company's Sales data with 19 CSV file of different fields are considered for analysis.
+Company's Sales data in 19 CSV file of different fields are considered for analysis.
  
 These multiple CSV files are upload into Sqlite server using python code.
 
