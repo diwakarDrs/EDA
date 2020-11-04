@@ -8,7 +8,7 @@ These multiple CSV files are upload into **Sqlite server** using python code.
 
 From the server, Data is extracted using **SQL query** for analysis.
 
-## We can answer below questions using EDA
+## We can answer the below questions using EDA
 
 ### Questions
 - Top 5 cities with max customer orders
@@ -27,7 +27,7 @@ From the server, Data is extracted using **SQL query** for analysis.
 
 - Which categories have more sales than the average value?
 
-Some of the insight gained from analysis of the data..
+### Some of the insight gained from analysis of the data..
 
  <p float="left" align='center'>
  
