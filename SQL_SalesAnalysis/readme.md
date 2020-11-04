@@ -1,14 +1,14 @@
-# Exploratory-Data-Analysis
+# Exploratory-Data-Analysis Using SQL
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![library](https://img.shields.io/badge/Library-numpy-orange.svg) ![library](https://img.shields.io/badge/Library-pandas-blueviolet.svg) ![library](https://img.shields.io/badge/Library-Sqlite3-9cf.svg)
 
-## Introduction
-DataSet considered for analysis is Sales data with 19 CSV file of different fields.
+## DataSet
+Company's Sales data with 19 CSV file of different fields are considered for analysis.
  
-Multiple CSV files are upload into Sqlite server using python code
+These multiple CSV files are upload into Sqlite server using python code.
 
-From the server, Data is extracted using SQL query for analysis..
+From the server, Data is extracted using SQL query for analysis.
 
-## By doing EDA we can answer these questions
+## We can answer below questions using EDA
 
 ### Questions
 - Top 5 cities with max customer orders
