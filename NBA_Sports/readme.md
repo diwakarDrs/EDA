@@ -43,3 +43,16 @@ Q4) Which player had the highest Assists Per Game (AST) ?
 Q5) Which player scored the highest (PTS) in the Los Angeles Lakers?
 
 Q6) which position scores the most points?
+
+
+## Exploratory Data Analysis
+ Some of the insight gained from analysis of the data..
+ 
+ <p float="left" align='center'>
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/NBA_Sports/Readme/pos.PNG" width = 500 alt="position">
+ 
+ <img src = "https://github.com/diwakarDrs/EDA/blob/main/NBA_Sports/Readme/hm.PNG" width = 300 alt="heatmap">
+  
+ </p>
+ 
