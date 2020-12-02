@@ -5,6 +5,13 @@
 - Exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. 
 
 - It is good practice to understand the data first and try to gather as many insights from it. 
+
+# NBA Dataset Project
+
+The primary goal of the project is to go through the dataset and the general data analysis process using numpy, pandas and matplotlib. 
+
+Data is extracted from https://www.basketball-reference.com/leagues/NBA_2019_per_game.html
+
 ## Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, matplotlib, seaborn.
