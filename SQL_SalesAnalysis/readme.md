@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis Using SQL
+# Exploratory-Data-Analysis Using SQL 
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![library](https://img.shields.io/badge/Library-numpy-orange.svg) ![library](https://img.shields.io/badge/Library-pandas-blueviolet.svg) ![library](https://img.shields.io/badge/Library-Sqlite3-9cf.svg)
 
 ## DataSet
